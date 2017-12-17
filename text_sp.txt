@@ -1,0 +1,14 @@
+Welcome;Entra el nombre del stacion tiempo:
+arrSize;Entra los cantidades de los reportes tiempos que te gustaria guardar
+EnterWeather;Escribe a la maquina 1 entrar el tiempo
+printCurrent;Escribe a la maquina 2 imprimir el tiempo reciente
+printHistory;Escribe a la maquina 3 imprimir la historia del tiempo 
+quit;Escribe a la maquina 4 salir
+noElements;no entraron elementos
+getTemp;Entra la temperatura afuera:
+getSpeed;Entra la velocidad de viento:
+getDirection;Entra la direccion de viento:
+Temp;Temperatura es:
+S_wind;velocidad de viento es:
+D_wind;direccion de viento es: 
+

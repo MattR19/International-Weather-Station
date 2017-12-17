@@ -1,0 +1,18 @@
+Welcome;Enter weather station name:
+arrSize;Enter amount of weather reports you'd like to save:
+EnterNewCity;Type 1 to enter new city
+printAll;Type 2 to print all station readings
+pickCity;Type 3 to select a city
+EnterWeather;Type 1 to enter in weather reading
+printCurrent;Type 2 to print weather reading
+printHistory;Type 3 to print weather history
+quit;Type 4 to quit
+
+noElements;no elements entered
+getCity;Enter name of the city you'd like to enter weather for: 
+getTemp;Enter current temperature outside:
+getSpeed;Enter wind speed:
+getDirection;Enter wind direction:
+Temp;Temperature is:
+S_wind;Wind speed is: 
+D_wind;wind Direction is: 
